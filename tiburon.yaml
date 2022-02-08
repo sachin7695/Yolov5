@@ -1,0 +1,13 @@
+train: /home/sachin269/Desktop/obj_det/yolov5/tiburon_data/images/train
+val: /home/sachin269/Desktop/obj_det/yolov5/tiburon_data/images/validation
+nc: 9
+names: ["toy",
+"red bin",
+"blue bin",
+"yellow flare",
+"mat",
+"red flare",
+"gate green",
+"gate black",
+"gate red",
+]

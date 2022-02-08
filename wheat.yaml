@@ -1,0 +1,4 @@
+train: /home/sachin269/Desktop/obj_det/yolov5/wheat_data/images/train
+val: /home/sachin269/Desktop/obj_det/yolov5/wheat_data/images/validation
+nc: 1
+names: ["wheat head"]
